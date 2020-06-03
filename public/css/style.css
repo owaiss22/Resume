@@ -131,6 +131,7 @@ section {
 .career-para {
     font-size: 25px;
     line-height: 34px;
+    text-align: justify;
 }
 
 /* photo hover effect */
@@ -270,23 +271,6 @@ ul.social-list-footer li:nth-child(3) a:hover {
     margin-right: auto;
     width: 50%;
   }
-
-/* ul.social-list-footer li:nth-child(1) a:hover {
-    background: #3b5998;
-    border-color: transparent;    
-}
-
-ul.social-list-footer li:nth-child(2) a:hover {
-    background: #fff;
-    border-color: transparent;
-    color: #333;    
-}
-
-ul.social-list-footer li:nth-child(3) a:hover {
-    background: #2867B2;
-    border-color: transparent;
-} */
-
 
 /* =========================================
                 Education
